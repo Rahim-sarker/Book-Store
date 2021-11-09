@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Psychology Money",
+        "description": "The Psychology of Money – Timeless Lessons on Wealth, Greed, and Happiness' by award-winning",
+        "price": 300,
+        "img": "https://cdn.shopify.com/s/files/1/0047/0551/7617/products/thepsychologyofmoney_800x.png?v=1605710702"
+    },
+    {
+        "id": 2,
+        "name": "Memory",
+        "description": "Memory is the faculty of the brain by which data or information is encoded, stored, and retrieved when needed",
+        "price": 350,
+        "img": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/contemporary-fiction-night-time-book-cover-design-template-1be47835c3058eb42211574e0c4ed8bf_screen.jpg?ts=1594616847"
+    },
+    {
+        "id": 3,
+        "name": "Memory",
+        "description": "Memory is the faculty of the brain by which data or information is encoded, stored, and retrieved when needed",
+        "price": 350,
+        "img": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/contemporary-fiction-night-time-book-cover-design-template-1be47835c3058eb42211574e0c4ed8bf_screen.jpg?ts=1594616847"
+    },
+    {
+        "id": 4,
+        "name": "Think and Grow Rich",
+        "description": "Think and Grow Rich has been called the Granddaddy of All Motivational Literature. It was the first book to boldly ask, What makes a winner?The man who asked and listened for the answer, Napoleon Hill",
+        "price": 500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEN2lduBPb44kSMAVVewSlqfxms_tteVWWQ51v_GB-l8mcpdTptv6u-_d04VO8O0Qct2o&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Think and Grow Rich",
+        "description": "Think and Grow Rich has been called the Granddaddy of All Motivational Literature. It was the first book to boldly ask, What makes a winner?The man who asked and listened for the answer, Napoleon Hill",
+        "price": 500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEN2lduBPb44kSMAVVewSlqfxms_tteVWWQ51v_GB-l8mcpdTptv6u-_d04VO8O0Qct2o&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Rich DAD Poor DAD",
+        "description": "Rich Dad Poor Dad is a 1997 book written by Robert Kiyosaki and Sharon Lechter. It advocates the importance of financial literacy",
+        "price": 400,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpG-WkezaQyQzggjCrLCu_dhKG_1lgI5O8Uw&usqp=CAU"
+    }
+]

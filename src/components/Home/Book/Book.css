@@ -1,0 +1,9 @@
+.book-cart img{
+    width: 450px;
+    height: 300px; 
+}
+.book-cart{
+    width: 450px;
+    background-color: rgb(245, 205, 239); 
+    border-radius: 5px;  
+}
